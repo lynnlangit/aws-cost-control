@@ -3,7 +3,9 @@ Companion Repository to Linked In Learning Course ["AWS Cost Control"](https://w
 
 ## Topics
 
-Learn how to use Amazon Web Services (AWS) tools and best practices to understand, forecast, and control service costs. This course covers core AWS tools, such as CloudWatch billing alarms, consolidated billing with AWS Organizations, and the AWS billing dashboard tools. Instructor Lynn Langit shows how to control costs through key services, such as EC2, S3, RDS, and more. She also goes over how to best leverage third-party tools, and reviews architectural decisions related to cost control drawn from her own professional experiences.
+Learn how to use Amazon Web Services (AWS) tools and best practices to understand, forecast, and control service costs. This course covers core AWS tools, such as CloudWatch billing alarms, consolidated billing with AWS Organizations, and the AWS billing dashboard tools.   
+
+Instructor Lynn Langit shows how to control costs through key services, such as EC2, S3, RDS, and more. She also goes over how to best leverage third-party tools, and reviews architectural decisions related to cost control drawn from her own professional experiences.
 
 ## Learning objectives
 
