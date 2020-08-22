@@ -5,7 +5,7 @@ Companion Repository to Linked In Learning Course ["AWS Cost Control"](https://w
 
 Learn how to use Amazon Web Services (AWS) tools and best practices to understand, forecast, and control service costs. The companion LinkedIn Learning course covers core AWS tools, such as CloudWatch billing alarms, consolidated billing with AWS Organizations, and the AWS billing dashboard tools.   
 
-Learn how to control costs through key services, such as EC2, S3, RDS, and more. Use third-party tools, and see architectural decisions related to cost control in common workloads.
+Learn how to control costs through key services, such as EC2, S3, RDS, and more. Use AWS tools, and see tips and practices related to cost control in common workloads.
 
 ## Learning objectives
 
@@ -17,3 +17,9 @@ Learn how to control costs through key services, such as EC2, S3, RDS, and more.
 - AWS Trusted Advisor cost control
 - Using third-party products
 - Cost control scenarios
+
+## 2020 Update
+
+- Add new section for Cost Manager Tools
+- Remove third-party
+- Replace scenarios with practical tips
