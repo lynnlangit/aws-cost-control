@@ -12,3 +12,4 @@
 - AWS Compute Optimizer - https://console.aws.amazon.com/compute-optimizer
 - AWS Trusted Advisor - https://console.aws.amazon.com/trustedadvisor
 - AWS Resource Groups (Tag Editor) - https://us-west-2.console.aws.amazon.com/resource-groups/tag-edito
+- AWS Marketplace Subscriptions - https://console.aws.amazon.com/marketplace
