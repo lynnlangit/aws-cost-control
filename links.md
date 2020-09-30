@@ -32,6 +32,7 @@ These resources are for this LinkedIn Learning Course / 2018 - https://www.linke
 
 ## More AWS Cost Control Links
 
+- How AWS Pricing Works Whitepaper - https://d0.awsstatic.com/whitepapers/aws_pricing_overview.pdf
 - AWS Cost Optimization Pillar Whitepaper - https://d1.awsstatic.com/whitepapers/architecture/AWS-Cost-Optimization-Pillar.pdf
 - Case Study - ACG + Linux Academy - https://acloudguru.com/blog/engineering/continuous-cloud-cost-optimization
 - AWS Cost Optimization from ACG blog / 2020 - https://acloudguru.com/blog/engineering/5-cost-optimization-tips-from-the-aws-summit-online
