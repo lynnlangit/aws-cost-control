@@ -12,6 +12,7 @@ These resources are for this LinkedIn Learning Course / 2018 - https://www.linke
 - AWS Trusted Advisor - https://console.aws.amazon.com/trustedadvisor
 - AWS Resource Groups (Tag Editor) - https://us-west-2.console.aws.amazon.com/resource-groups/tag-edito
 - AWS Marketplace Subscriptions - https://console.aws.amazon.com/marketplace
+- AWS CloudFormation WordPress example template - https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/sample-templates-applications-us-west-2.html
 
 ## AWS Cost Calculators and Service Pricing Pages
 
