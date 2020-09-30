@@ -24,6 +24,7 @@
 - Types of AWS EC2 pricing (on-demand, reserved, spot) - https://aws.amazon.com/ec2/pricing/
 - Types of AWS EC2 instances and prices - https://aws.amazon.com/ec2/instance-types/t2/
 - Per second EC2 billing - https://aws.amazon.com/blogs/aws/new-per-second-billing-for-ec2-instances-and-ebs-volumes/
+- AWS Lambda cost calculator - https://dashbird.io/lambda-cost-calculator/
 
 ## S3 Service Types
 
