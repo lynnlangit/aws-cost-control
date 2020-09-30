@@ -3,6 +3,7 @@
 - LinkedIn Learning Course / 2018 - https://www.linkedin.com/learning/amazon-web-services-controlling-cost
 - Case Study - ACG + Linux Academy - https://acloudguru.com/blog/engineering/continuous-cloud-cost-optimization
 - AWS Cost Optimization from ACG blog / 2020 - https://acloudguru.com/blog/engineering/5-cost-optimization-tips-from-the-aws-summit-online
+- AWS Cost Control Tips - https://medium.com/@Totalcloudio/aws-cost-optimization-checklist-97207d32f7ca
 
 ## AWS Services and Offers
 
