@@ -4,8 +4,9 @@
 - Case Study - ACG + Linux Academy - https://acloudguru.com/blog/engineering/continuous-cloud-cost-optimization
 - AWS Cost Optimization from ACG blog / 2020 - https://acloudguru.com/blog/engineering/5-cost-optimization-tips-from-the-aws-summit-online
 
-## AWS Services
+## AWS Services and Offers
 
+- AWS Free Tier - https://aws.amazon.com/free
 - AWS Billing Console - https://console.aws.amazon.com/billing
 - AWS Cost Management Console - https://console.aws.amazon.com/cost-management
 - AWS Well-Architected Tool - https://us-west-2.console.aws.amazon.com/wellarchitected
