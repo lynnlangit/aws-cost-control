@@ -20,8 +20,4 @@ Learn how to control costs through key services, such as EC2, S3, RDS, and more.
 - Using third-party products
 - Cost control scenarios
 
-## 2020 Update
 
-- Add new section for Cost Manager Tools
-- Remove third-party
-- Replace scenarios with practical tips
