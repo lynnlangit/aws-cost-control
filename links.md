@@ -41,4 +41,5 @@ These resources are for this LinkedIn Learning Course / 2018 - https://www.linke
 - AWS Cost Optimization from ACG blog / 2020 - https://acloudguru.com/blog/engineering/5-cost-optimization-tips-from-the-aws-summit-online
 - AWS Cost Optimizztion Tips - https://medium.com/@Totalcloudio/aws-cost-optimization-checklist-97207d32f7ca
 - AWS Real-life Cost Control - https://medium.com/teads-engineering/real-life-aws-cost-optimization-strategy-at-teads-135268b0860f
+- Converting to cloud example (YouTube) - https://www.youtube.com/watch?v=Vx1AqGsnndI
 
