@@ -28,7 +28,7 @@ These resources are for this LinkedIn Learning Course / 2018 - https://www.linke
 
 ## S3 Service Types
 
-![S3 Service Types](https://github.com/lynnlangit/aws-cost-control/blob/master/s3-types.png)
+![S3 Service Types](https://github.com/lynnlangit/aws-cost-control/blob/master/images/s3-types.png)
 
 ---
 

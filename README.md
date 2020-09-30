@@ -1,7 +1,7 @@
 # AWS: Cost Control
 Companion Repository to Linked In Learning Course ["AWS Cost Control"](https://www.linkedin.com/learning/amazon-web-services-controlling-cost)
 
-![AWS Cost Control](https://github.com/lynnlangit/aws-cost-control/blob/master/aws-cost-control.png)
+![AWS Cost Control](https://github.com/lynnlangit/aws-cost-control/blob/master/images/aws-cost-control.png)
 
 ## Topics
 
