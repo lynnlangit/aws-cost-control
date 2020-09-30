@@ -1,10 +1,6 @@
-# AWS Cost Control Links
+# AWS Cost Control Resource
 
-- LinkedIn Learning Course / 2018 - https://www.linkedin.com/learning/amazon-web-services-controlling-cost
-- Case Study - ACG + Linux Academy - https://acloudguru.com/blog/engineering/continuous-cloud-cost-optimization
-- AWS Cost Optimization from ACG blog / 2020 - https://acloudguru.com/blog/engineering/5-cost-optimization-tips-from-the-aws-summit-online
-- AWS Cost Optimizztion Tips - https://medium.com/@Totalcloudio/aws-cost-optimization-checklist-97207d32f7ca
-- AWS Real-life Cost Control - https://medium.com/teads-engineering/real-life-aws-cost-optimization-strategy-at-teads-135268b0860f
+These resources are for this LinkedIn Learning Course / 2018 - https://www.linkedin.com/learning/amazon-web-services-controlling-cost - updating in 2020.  
 
 ## AWS Services and Offers
 
@@ -31,3 +27,14 @@
 ## S3 Service Types
 
 ![S3 Service Types](https://github.com/lynnlangit/aws-cost-control/blob/master/s3-types.png)
+
+---
+
+## More AWS Cost Control Links
+
+- AWS Cost Optimization Pillar Whitepaper - https://d1.awsstatic.com/whitepapers/architecture/AWS-Cost-Optimization-Pillar.pdf
+- Case Study - ACG + Linux Academy - https://acloudguru.com/blog/engineering/continuous-cloud-cost-optimization
+- AWS Cost Optimization from ACG blog / 2020 - https://acloudguru.com/blog/engineering/5-cost-optimization-tips-from-the-aws-summit-online
+- AWS Cost Optimizztion Tips - https://medium.com/@Totalcloudio/aws-cost-optimization-checklist-97207d32f7ca
+- AWS Real-life Cost Control - https://medium.com/teads-engineering/real-life-aws-cost-optimization-strategy-at-teads-135268b0860f
+
