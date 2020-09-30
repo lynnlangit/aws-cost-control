@@ -4,6 +4,7 @@
 - Case Study - ACG + Linux Academy - https://acloudguru.com/blog/engineering/continuous-cloud-cost-optimization
 - AWS Cost Optimization from ACG blog / 2020 - https://acloudguru.com/blog/engineering/5-cost-optimization-tips-from-the-aws-summit-online
 - AWS Cost Optimizztion Tips - https://medium.com/@Totalcloudio/aws-cost-optimization-checklist-97207d32f7ca
+- AWS Real-life Cost Control - https://medium.com/teads-engineering/real-life-aws-cost-optimization-strategy-at-teads-135268b0860f
 
 ## AWS Services and Offers
 
