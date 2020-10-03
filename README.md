@@ -20,4 +20,8 @@ Learn how to control costs through key services, such as EC2, S3, RDS, and more.
 - Using third-party products
 - Cost control scenarios
 
+## Resources
+
+Resources covered in this course are listed on the `links.md` page of this Repo - [link](https://github.com/lynnlangit/aws-cost-control/blob/master/links.md)
+
 
