@@ -13,6 +13,7 @@ These resources are for this LinkedIn Learning Course / 2018 - [link](https://ww
 - AWS Resource Groups (Tag Editor) - https://us-west-2.console.aws.amazon.com/resource-groups/tag-edito
 - AWS Marketplace Subscriptions - https://console.aws.amazon.com/marketplace
 - AWS CloudFormation WordPress example template - https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/sample-templates-applications-us-west-2.html
+- AWS Control Tower - https://aws.amazon.com/blogs/apn/reducing-the-cost-of-managing-multiple-aws-accounts-using-aws-control-tower/
 
 ## AWS Cost Calculators and Service Pricing Pages
 
