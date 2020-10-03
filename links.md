@@ -26,6 +26,7 @@ These resources are for this LinkedIn Learning Course / 2018 - [link](https://ww
 - Types of AWS EC2 instances and prices - https://aws.amazon.com/ec2/instance-types/t2/
 - Per second EC2 billing - https://aws.amazon.com/blogs/aws/new-per-second-billing-for-ec2-instances-and-ebs-volumes/
 - AWS Lambda cost calculator - https://dashbird.io/lambda-cost-calculator/
+- DynamoDB pricing explanation and example - https://github.com/lynnlangit/aws-cost-control/blob/master/links.md
 
 ## S3 Service Types
 
