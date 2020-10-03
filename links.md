@@ -1,6 +1,6 @@
 # AWS Cost Control Resource
 
-These resources are for this LinkedIn Learning Course / 2018 - https://www.linkedin.com/learning/amazon-web-services-controlling-cost - updating in 2020.  
+These resources are for this LinkedIn Learning Course / 2018 - [link](https://www.linkedin.com/learning/amazon-web-services-controlling-cost) - updating in 2020.  
 
 ## AWS Services and Offers
 
