@@ -2,6 +2,10 @@
 
 These resources are for this LinkedIn Learning Course / 2018 - [link](https://www.linkedin.com/learning/amazon-web-services-controlling-cost) - updating in 2020.  
 
+|      Cost       |  Billing |
+|:-------------:|:------:|
+|  <img src="https://github.com/lynnlangit/aws-cost-control/blob/master/images/cost.png" width="350" align="top"> | <img src="https://github.com/lynnlangit/aws-cost-control/blob/master/images/billing.png" width="350" align="center">  |
+
 ## AWS Services and Offers
 
 - AWS Free Tier - https://aws.amazon.com/free
