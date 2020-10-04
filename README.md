@@ -11,14 +11,6 @@ Learn how to control costs through key services, such as EC2, S3, RDS, and more.
 
 <img src="https://github.com/lynnlangit/aws-cost-control/blob/master/images/cost-services.png" width="400" align="left">
 
-<img src="https://github.com/lynnlangit/aws-cost-control/blob/master/images/mgmt-services.png" width="400" align="right">  
-
----
-
----
-
-
-
 ## Learning objectives
 
 - Approaches to cloud service cost control
@@ -29,6 +21,8 @@ Learn how to control costs through key services, such as EC2, S3, RDS, and more.
 - AWS Trusted Advisor cost control
 - Using third-party products
 - Cost control scenarios
+
+<img src="https://github.com/lynnlangit/aws-cost-control/blob/master/images/mgmt-services.png" width="400" align="right">  
 
 ## Resources
 
