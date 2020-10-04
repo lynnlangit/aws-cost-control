@@ -11,9 +11,9 @@ Learn how to control costs through key services, such as EC2, S3, RDS, and more.
 
 | Tables   |      Are      |  Cool |
 |----------|:-------------:|------:|
-| col 1 is |  <img src="https://github.com/lynnlangit/aws-cost-control/blob/master/images/cost-services.png" width="400" align="left"> | $1600 |
+| col 1 is |  <img src="https://github.com/lynnlangit/aws-cost-control/blob/master/images/cost-services.png" width="400" align="left"> | <img src="https://github.com/lynnlangit/aws-cost-control/blob/master/images/mgmt-services.png" width="400" align="right">  |
 | col 2 is |    centered   |   $12 |
-| col 3 is | <img src="https://github.com/lynnlangit/aws-cost-control/blob/master/images/mgmt-services.png" width="400" align="right">   |    $1 |
+| col 3 is | blah   |    $1 |
 
 <img src="https://github.com/lynnlangit/aws-cost-control/blob/master/images/cost-services.png" width="400" align="left">
 
