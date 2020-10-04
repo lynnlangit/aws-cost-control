@@ -13,6 +13,7 @@ Learn how to control costs through key services, such as EC2, S3, RDS, and more.
 
 <img src="https://github.com/lynnlangit/aws-cost-control/blob/master/images/mgmt-services.png" width="390" align="right">  
 
+---
 
 ---
 
