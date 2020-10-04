@@ -16,6 +16,8 @@ Learn how to control costs through key services, such as EC2, S3, RDS, and more.
 
 ---
 
+
+
 ## Learning objectives
 
 - Approaches to cloud service cost control
