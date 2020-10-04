@@ -9,6 +9,12 @@ Learn how to use Amazon Web Services (AWS) tools and best practices to understan
 
 Learn how to control costs through key services, such as EC2, S3, RDS, and more. Use AWS tools, and see tips and practices related to cost control in common workloads. Topics include those from AWS Cost Services and Management Services (shown below).
 
+| Tables   |      Are      |  Cool |
+|----------|:-------------:|------:|
+| col 1 is |  <img src="https://github.com/lynnlangit/aws-cost-control/blob/master/images/cost-services.png" width="400" align="left"> | $1600 |
+| col 2 is |    centered   |   $12 |
+| col 3 is | <img src="https://github.com/lynnlangit/aws-cost-control/blob/master/images/mgmt-services.png" width="400" align="right">   |    $1 |
+
 <img src="https://github.com/lynnlangit/aws-cost-control/blob/master/images/cost-services.png" width="400" align="left">
 
 ## Learning objectives
