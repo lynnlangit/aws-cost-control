@@ -28,4 +28,10 @@ Learn how to control costs through key services, such as EC2, S3, RDS, and more.
 
 Resources covered in this course are listed on the `links.md` page of this Repo - [link](https://github.com/lynnlangit/aws-cost-control/blob/master/links.md)
 
+| Tables   |      Are      |  Cool |
+|----------|:-------------:|------:|
+| col 1 is |  left-aligned | $1600 |
+| col 2 is |    centered   |   $12 |
+| col 3 is | right-aligned |    $1 |
+
 
