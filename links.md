@@ -43,6 +43,7 @@ These resources are for this LinkedIn Learning Course / 2018 - [link](https://ww
 - How AWS Pricing Works Whitepaper - https://d0.awsstatic.com/whitepapers/aws_pricing_overview.pdf
 - AWS Cost Optimization Pillar Whitepaper - https://d1.awsstatic.com/whitepapers/architecture/AWS-Cost-Optimization-Pillar.pdf
 - AWS Open Guide - how billing works - https://github.com/open-guides/og-aws#billing-and-cost-management
+- AWS Cost Visualization lab - https://wellarchitectedlabs.com/cost/200_labs/200_5_cost_visualization/
 - Case Study - ACG + Linux Academy - https://acloudguru.com/blog/engineering/continuous-cloud-cost-optimization
 - AWS Cost Optimization from ACG blog / 2020 - https://acloudguru.com/blog/engineering/5-cost-optimization-tips-from-the-aws-summit-online
 - AWS Cost Optimization Tips - https://medium.com/@Totalcloudio/aws-cost-optimization-checklist-97207d32f7ca
