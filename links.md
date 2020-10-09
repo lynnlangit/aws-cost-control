@@ -4,7 +4,7 @@ These resources are for this LinkedIn Learning Course / 2018 - [link](https://ww
 
 |      Cost       |  Billing |
 |:-------------:|:------:|
-|  <img src="https://github.com/lynnlangit/aws-cost-control/blob/master/images/cost.png" width="150" align="top"> | <img src="https://github.com/lynnlangit/aws-cost-control/blob/master/images/billing.png" width="150" align="center">  |
+|  <img src="https://github.com/lynnlangit/aws-cost-control/blob/master/images/cost.png" width="150" align="left"> | <img src="https://github.com/lynnlangit/aws-cost-control/blob/master/images/billing.png" width="150" align="top">  |
 
 ## AWS Services and Offers
 
