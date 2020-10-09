@@ -2,9 +2,7 @@
 
 These resources are for this LinkedIn Learning Course / 2018 - [link](https://www.linkedin.com/learning/amazon-web-services-controlling-cost) - updating in 2020.  
 
-|      Cost       |  Billing |
-|:-------------:|:------:|
-|  <img src="https://github.com/lynnlangit/aws-cost-control/blob/master/images/cost.png" width="150" align="left"> | <img src="https://github.com/lynnlangit/aws-cost-control/blob/master/images/billing.png" width="150" align="top">  |
+
 
 ## AWS Services and Offers
 
@@ -18,6 +16,10 @@ These resources are for this LinkedIn Learning Course / 2018 - [link](https://ww
 - AWS Marketplace Subscriptions - https://console.aws.amazon.com/marketplace
 - AWS CloudFormation WordPress example template - https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/sample-templates-applications-us-west-2.html
 - AWS Control Tower - https://aws.amazon.com/blogs/apn/reducing-the-cost-of-managing-multiple-aws-accounts-using-aws-control-tower/
+
+|      Cost       |  Billing | 
+|:-------------:|:------:|
+|  <img src="https://github.com/lynnlangit/aws-cost-control/blob/master/images/cost.png" width="150" align="left"> | <img src="https://github.com/lynnlangit/aws-cost-control/blob/master/images/billing.png" width="150" align="top">  | 
 
 ## AWS Cost Calculators and Service Pricing Pages
 
