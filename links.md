@@ -9,6 +9,7 @@ These resources are for this LinkedIn Learning Course / 2018 - [link](https://ww
   - AWS Billing Console - https://console.aws.amazon.com/billing
   - AWS Cost Management Console - https://console.aws.amazon.com/cost-management
   - AWS Marketplace Subscriptions - https://console.aws.amazon.com/marketplace
+  
 - Tools and Examples
   - AWS Well-Architected Tool - https://us-west-2.console.aws.amazon.com/wellarchitected
   - AWS Compute Optimizer - https://console.aws.amazon.com/compute-optimizer
@@ -30,6 +31,7 @@ These resources are for this LinkedIn Learning Course / 2018 - [link](https://ww
   - Types of AWS S3 storage - https://aws.amazon.com/s3/storage-classes-infographic/
   - AWS Lambda cost calculator - https://dashbird.io/lambda-cost-calculator/
   - DynamoDB pricing explanation and example - https://github.com/lynnlangit/aws-cost-control/blob/master/links.md
+  
 - EC2 Pricing
   - EC2 Instance price comparisons - https://ec2instances.info/
   - EC2 Spot Instance advisor - https://aws.amazon.com/ec2/spot/instance-advisor/
@@ -44,7 +46,8 @@ These resources are for this LinkedIn Learning Course / 2018 - [link](https://ww
   - How AWS Pricing Works Whitepaper - https://d0.awsstatic.com/whitepapers/aws_pricing_overview.pdf
   - AWS Cost Optimization Pillar Whitepaper - https://d1.awsstatic.com/whitepapers/architecture/AWS-Cost-Optimization-Pillar.pdf
   - AWS Open Guide - how billing works - https://github.com/open-guides/og-aws#billing-and-cost-management
-- Tipps, Labs and Examples
+  
+- Tips, Labs and Examples
   - AWS Cost Visualization lab - https://wellarchitectedlabs.com/cost/200_labs/200_5_cost_visualization/
   - Case Study - ACG + Linux Academy - https://acloudguru.com/blog/engineering/continuous-cloud-cost-optimization
   - AWS Cost Optimization from ACG blog / 2020 - https://acloudguru.com/blog/engineering/5-cost-optimization-tips-from-the-aws-summit-online
