@@ -5,23 +5,23 @@ These resources are for this LinkedIn Learning Course / 2018 - [link](https://ww
 ## AWS Services and Offers
 
 - Services
-  - Free Tier - https://aws.amazon.com/free
-  - Billing Console - https://console.aws.amazon.com/billing
-  - Cost Management Console - https://console.aws.amazon.com/cost-management
-  - Marketplace Subscriptions - https://console.aws.amazon.com/marketplace
+  - **Free Tier** - https://aws.amazon.com/free
+  - **Billing Console** - https://console.aws.amazon.com/billing
+  - **Cost Management Console** - https://console.aws.amazon.com/cost-management
+  - **Marketplace Subscriptions** - https://console.aws.amazon.com/marketplace
   
 - Tools
-  - Tags -> Cost Allocation Tags - https://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/cost-alloc-tags.html
-  - RGs -> Resource Groups (Tag Editor) - https://us-west-2.console.aws.amazon.com/resource-groups/tag-editor
-  - Categories -> Cost Categories - https://aws.amazon.com/aws-cost-management/aws-cost-categories/
-  - Compared -> Cost Categories vs Tags - https://medium.com/@jaychapel/how-to-use-the-new-aws-cost-categories-for-better-cost-allocation-f7f427965252
-  - CF -> CloudFormation WordPress example template with tags - https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/sample-templates-applications-us-west-2.html
-  - Control Tower - https://aws.amazon.com/blogs/apn/reducing-the-cost-of-managing-multiple-aws-accounts-using-aws-control-tower/
+  - **Tags** -> Cost Allocation Tags - https://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/cost-alloc-tags.html
+  - **RGs** -> Resource Groups (Tag Editor) - https://us-west-2.console.aws.amazon.com/resource-groups/tag-editor
+  - **Categories** -> Cost Categories - https://aws.amazon.com/aws-cost-management/aws-cost-categories/
+  - **Compared** -> Cost Categories vs Tags - https://medium.com/@jaychapel/how-to-use-the-new-aws-cost-categories-for-better-cost-allocation-f7f427965252
+  - **CF** -> CloudFormation WordPress example template with tags - https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/sample-templates-applications-us-west-2.html
+  - **Control Tower** - https://aws.amazon.com/blogs/apn/reducing-the-cost-of-managing-multiple-aws-accounts-using-aws-control-tower/
 
 - Advisor Services
-  - Well-Architected Tool - https://us-west-2.console.aws.amazon.com/wellarchitected
-  - Compute Optimizer - https://console.aws.amazon.com/compute-optimizer
-  - Trusted Advisor - https://console.aws.amazon.com/trustedadvisor
+  - **Well-Architected Tool** - https://us-west-2.console.aws.amazon.com/wellarchitected
+  - **Compute Optimizer** - https://console.aws.amazon.com/compute-optimizer
+  - **Trusted Advisor** - https://console.aws.amazon.com/trustedadvisor
 
 |      Cost       |  Billing | S3 Info |
 |:-------------:|:------:|:------:|
