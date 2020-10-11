@@ -14,6 +14,7 @@ These resources are for this LinkedIn Learning Course / 2018 - [link](https://ww
   - AWS Cost Allocation Tags - https://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/cost-alloc-tags.html
   - AWS Resource Groups (Tag Editor) - https://us-west-2.console.aws.amazon.com/resource-groups/tag-editor
   - AWS Cost Categories - https://aws.amazon.com/aws-cost-management/aws-cost-categories/
+  - Cost Categories vs Tags - https://medium.com/@jaychapel/how-to-use-the-new-aws-cost-categories-for-better-cost-allocation-f7f427965252
   - AWS Resource Groups (Tag Editor) - https://us-west-2.console.aws.amazon.com/resource-groups/tag-editor
   - AWS CloudFormation WordPress example template - https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/sample-templates-applications-us-west-2.html
   - AWS Control Tower - https://aws.amazon.com/blogs/apn/reducing-the-cost-of-managing-multiple-aws-accounts-using-aws-control-tower/
