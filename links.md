@@ -10,13 +10,18 @@ These resources are for this LinkedIn Learning Course / 2018 - [link](https://ww
   - AWS Cost Management Console - https://console.aws.amazon.com/cost-management
   - AWS Marketplace Subscriptions - https://console.aws.amazon.com/marketplace
   
-- Tools and Examples
+- Tools
+  - AWS Cost Allocation Tags - https://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/cost-alloc-tags.html
+  - AWS Resource Groups (Tag Editor) - https://us-west-2.console.aws.amazon.com/resource-groups/tag-editor
+  - AWS Cost Categories - https://aws.amazon.com/aws-cost-management/aws-cost-categories/
+  - AWS Resource Groups (Tag Editor) - https://us-west-2.console.aws.amazon.com/resource-groups/tag-editor
+  - AWS CloudFormation WordPress example template - https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/sample-templates-applications-us-west-2.html
+  - AWS Control Tower - https://aws.amazon.com/blogs/apn/reducing-the-cost-of-managing-multiple-aws-accounts-using-aws-control-tower/
+
+- Advisors
   - AWS Well-Architected Tool - https://us-west-2.console.aws.amazon.com/wellarchitected
   - AWS Compute Optimizer - https://console.aws.amazon.com/compute-optimizer
   - AWS Trusted Advisor - https://console.aws.amazon.com/trustedadvisor
-  - AWS Resource Groups (Tag Editor) - https://us-west-2.console.aws.amazon.com/resource-groups/tag-edito
-  - AWS CloudFormation WordPress example template - https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/sample-templates-applications-us-west-2.html
-  - AWS Control Tower - https://aws.amazon.com/blogs/apn/reducing-the-cost-of-managing-multiple-aws-accounts-using-aws-control-tower/
 
 |      Cost       |  Billing | S3 Info |
 |:-------------:|:------:|:------:|
