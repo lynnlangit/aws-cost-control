@@ -5,24 +5,23 @@ These resources are for this LinkedIn Learning Course / 2018 - [link](https://ww
 ## AWS Services and Offers
 
 - Services
-  - AWS Free Tier - https://aws.amazon.com/free
-  - AWS Billing Console - https://console.aws.amazon.com/billing
-  - AWS Cost Management Console - https://console.aws.amazon.com/cost-management
-  - AWS Marketplace Subscriptions - https://console.aws.amazon.com/marketplace
+  - Free Tier - https://aws.amazon.com/free
+  - Billing Console - https://console.aws.amazon.com/billing
+  - Cost Management Console - https://console.aws.amazon.com/cost-management
+  - Marketplace Subscriptions - https://console.aws.amazon.com/marketplace
   
 - Tools
-  - AWS Cost Allocation Tags - https://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/cost-alloc-tags.html
-  - AWS Resource Groups (Tag Editor) - https://us-west-2.console.aws.amazon.com/resource-groups/tag-editor
-  - AWS Cost Categories - https://aws.amazon.com/aws-cost-management/aws-cost-categories/
-  - Cost Categories vs Tags - https://medium.com/@jaychapel/how-to-use-the-new-aws-cost-categories-for-better-cost-allocation-f7f427965252
-  - AWS Resource Groups (Tag Editor) - https://us-west-2.console.aws.amazon.com/resource-groups/tag-editor
-  - AWS CloudFormation WordPress example template - https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/sample-templates-applications-us-west-2.html
-  - AWS Control Tower - https://aws.amazon.com/blogs/apn/reducing-the-cost-of-managing-multiple-aws-accounts-using-aws-control-tower/
+  - Tags -> Cost Allocation Tags - https://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/cost-alloc-tags.html
+  - RGs -> Resource Groups (Tag Editor) - https://us-west-2.console.aws.amazon.com/resource-groups/tag-editor
+  - Categories -> Cost Categories - https://aws.amazon.com/aws-cost-management/aws-cost-categories/
+  - Compared -> Cost Categories vs Tags - https://medium.com/@jaychapel/how-to-use-the-new-aws-cost-categories-for-better-cost-allocation-f7f427965252
+  - CF -> CloudFormation WordPress example template with tags - https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/sample-templates-applications-us-west-2.html
+  - Control Tower - https://aws.amazon.com/blogs/apn/reducing-the-cost-of-managing-multiple-aws-accounts-using-aws-control-tower/
 
-- Advisors
-  - AWS Well-Architected Tool - https://us-west-2.console.aws.amazon.com/wellarchitected
-  - AWS Compute Optimizer - https://console.aws.amazon.com/compute-optimizer
-  - AWS Trusted Advisor - https://console.aws.amazon.com/trustedadvisor
+- Advisor Services
+  - Well-Architected Tool - https://us-west-2.console.aws.amazon.com/wellarchitected
+  - Compute Optimizer - https://console.aws.amazon.com/compute-optimizer
+  - Trusted Advisor - https://console.aws.amazon.com/trustedadvisor
 
 |      Cost       |  Billing | S3 Info |
 |:-------------:|:------:|:------:|
@@ -41,8 +40,8 @@ These resources are for this LinkedIn Learning Course / 2018 - [link](https://ww
 - EC2 Pricing
   - EC2 Instance price comparisons - https://ec2instances.info/
   - EC2 Spot Instance advisor - https://aws.amazon.com/ec2/spot/instance-advisor/
-  - Types of AWS EC2 pricing (on-demand, reserved, spot) - https://aws.amazon.com/ec2/pricing/
-  - Types of AWS EC2 instances and prices - https://aws.amazon.com/ec2/instance-types/t2/
+  - Types of EC2 pricing (on-demand, reserved, spot) - https://aws.amazon.com/ec2/pricing/
+  - Types of EC2 instances and prices - https://aws.amazon.com/ec2/instance-types/t2/
   - Per second EC2 billing - https://aws.amazon.com/blogs/aws/new-per-second-billing-for-ec2-instances-and-ebs-volumes/
   - EC2 Reserved Instances vs Savings Plans - https://www.cloudhealthtech.com/blog/reserved-instances-vs-aws-saving-plans
 ---
