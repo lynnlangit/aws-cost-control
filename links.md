@@ -38,6 +38,7 @@ These resources are for this LinkedIn Learning Course / 2018 - [link](https://ww
   - Types of AWS EC2 pricing (on-demand, reserved, spot) - https://aws.amazon.com/ec2/pricing/
   - Types of AWS EC2 instances and prices - https://aws.amazon.com/ec2/instance-types/t2/
   - Per second EC2 billing - https://aws.amazon.com/blogs/aws/new-per-second-billing-for-ec2-instances-and-ebs-volumes/
+  - EC2 Reserved Instances vs Savings Plans - https://www.cloudhealthtech.com/blog/reserved-instances-vs-aws-saving-plans
 ---
 
 ## More AWS Cost Control Links
