@@ -2,6 +2,10 @@
 
 These resources are for this LinkedIn Learning Course / 2018 - [link](https://www.linkedin.com/learning/amazon-web-services-controlling-cost) - updating in 2020.  
 
+|      Cost       |  Billing | S3 Info |
+|:-------------:|:------:|:------:|
+|  <img src="https://github.com/lynnlangit/aws-cost-control/blob/master/images/cost.png" width="175" align="left"> | <img src="https://github.com/lynnlangit/aws-cost-control/blob/master/images/billing.png" width="150" align="top">  | <img src="https://github.com/lynnlangit/aws-cost-control/blob/master/images/s3-types.png" width="450" align="top">  | 
+
 ## AWS Services and Offers
 
 - Services
@@ -23,10 +27,7 @@ These resources are for this LinkedIn Learning Course / 2018 - [link](https://ww
   - 🛠️ **Compute Optimizer** - https://console.aws.amazon.com/compute-optimizer
   - 🛠️ **Trusted Advisor** - https://console.aws.amazon.com/trustedadvisor
 
-|      Cost       |  Billing | S3 Info |
-|:-------------:|:------:|:------:|
-|  <img src="https://github.com/lynnlangit/aws-cost-control/blob/master/images/cost.png" width="175" align="left"> | <img src="https://github.com/lynnlangit/aws-cost-control/blob/master/images/billing.png" width="150" align="top">  | <img src="https://github.com/lynnlangit/aws-cost-control/blob/master/images/s3-types.png" width="450" align="top">  | 
-
+---
 
 ## AWS Cost Calculators and Service Pricing Pages
 
