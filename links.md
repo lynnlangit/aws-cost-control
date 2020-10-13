@@ -5,7 +5,7 @@ These resources are for this LinkedIn Learning Course / 2018 - [link](https://ww
 ## AWS Services and Offers
 
 - Services
-  - 📘 **Free Tier** - https://aws.amazon.com/free
+  - 📙 **Free Tier** - https://aws.amazon.com/free
   - 🛠️ **Billing Console** - https://console.aws.amazon.com/billing
   - 🛠️ **Cost Management Console** - https://console.aws.amazon.com/cost-management
   - 🛠️ **Marketplace Subscriptions** - https://console.aws.amazon.com/marketplace
@@ -13,10 +13,10 @@ These resources are for this LinkedIn Learning Course / 2018 - [link](https://ww
 - Tools
   - 🛠️ **Tags** -> Cost Allocation Tags - https://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/cost-alloc-tags.html
   - 🛠️ **RGs** -> Resource Groups (Tag Editor) - https://us-west-2.console.aws.amazon.com/resource-groups/tag-editor
-  - 🛠️ **Categories** -> Cost Categories - https://aws.amazon.com/aws-cost-management/aws-cost-categories/
+  - 📙  **Categories** -> Cost Categories - https://aws.amazon.com/aws-cost-management/aws-cost-categories/
   - 📘 **Compared** -> Cost Categories vs Tags - https://medium.com/@jaychapel/how-to-use-the-new-aws-cost-categories-for-better-cost-allocation-f7f427965252
-  - 🛠️ **CF** -> CloudFormation WordPress example template with tags - https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/sample-templates-applications-us-west-2.html
-  - 🛠️ **Control Tower** - https://aws.amazon.com/blogs/apn/reducing-the-cost-of-managing-multiple-aws-accounts-using-aws-control-tower/
+  - 📙  **CF** -> CloudFormation WordPress example template with tags - https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/sample-templates-applications-us-west-2.html
+  - 📙  **Control Tower** - https://aws.amazon.com/blogs/apn/reducing-the-cost-of-managing-multiple-aws-accounts-using-aws-control-tower/
 
 - Advisor Services
   - 🛠️ **Well-Architected Tool** - https://us-west-2.console.aws.amazon.com/wellarchitected
@@ -33,16 +33,16 @@ These resources are for this LinkedIn Learning Course / 2018 - [link](https://ww
 - Calculators
   - 🛠️ **Calculator** - https://calculator.aws/
   - 🛠️ **Service Calculator (older)** - https://calculator.s3.amazonaws.com/index.html
-  - 📘 **S3 storage types** - https://aws.amazon.com/s3/storage-classes-infographic/
+  - 📙 **S3 storage types** - https://aws.amazon.com/s3/storage-classes-infographic/
   - 🛠️ **AWS Lambda cost calculator** - https://dashbird.io/lambda-cost-calculator/
-  - 📘 **DynamoDB pricing explanation and example** - https://github.com/lynnlangit/aws-cost-control/blob/master/links.md
+  - :octocat: **DynamoDB pricing explanation and example** - https://github.com/lynnlangit/aws-cost-control/blob/master/links.md
   
 - EC2 Pricing
   - 🛠️ **EC2 Instance price comparisons** - https://ec2instances.info/
   - 🛠️ **EC2 Spot Instance advisor** - https://aws.amazon.com/ec2/spot/instance-advisor/
-  - 📘 **Types of EC2 pricing (on-demand, reserved, spot)** - https://aws.amazon.com/ec2/pricing/
-  - 📘 **Types of EC2 instances and prices** - https://aws.amazon.com/ec2/instance-types/t2/
-  - 📘 **Per second EC2 billing** - https://aws.amazon.com/blogs/aws/new-per-second-billing-for-ec2-instances-and-ebs-volumes/
+  - 📙 **Types of EC2 pricing (on-demand, reserved, spot)** - https://aws.amazon.com/ec2/pricing/
+  - 📙 **Types of EC2 instances and prices** - https://aws.amazon.com/ec2/instance-types/t2/
+  - 📙 **Per second EC2 billing** - https://aws.amazon.com/blogs/aws/new-per-second-billing-for-ec2-instances-and-ebs-volumes/
   - 📘 **EC2 Reserved Instances vs Savings Plans** - https://www.cloudhealthtech.com/blog/reserved-instances-vs-aws-saving-plans
 ---
 
@@ -50,11 +50,11 @@ These resources are for this LinkedIn Learning Course / 2018 - [link](https://ww
 
 - Whitepapers
   - 📘 **How AWS Pricing Works Whitepaper** - https://d0.awsstatic.com/whitepapers/aws_pricing_overview.pdf
-  - 📘 **AWS Cost Optimization Pillar Whitepaper** - https://d1.awsstatic.com/whitepapers/architecture/AWS-Cost-Optimization-Pillar.pdf
+  - 📙 **AWS Cost Optimization Pillar Whitepaper** - https://d1.awsstatic.com/whitepapers/architecture/AWS-Cost-Optimization-Pillar.pdf
   - :octocat: **AWS Open Guide - how billing works** - https://github.com/open-guides/og-aws#billing-and-cost-management
   
 - Tips, Labs and Examples
-  - **AWS Cost Visualization lab** - https://wellarchitectedlabs.com/cost/200_labs/200_5_cost_visualization/
+  - 🔬 **AWS Cost Visualization lab** - https://wellarchitectedlabs.com/cost/200_labs/200_5_cost_visualization/
   - 📘 **Case Study - ACG + Linux Academy** - https://acloudguru.com/blog/engineering/continuous-cloud-cost-optimization
   - 📘 **AWS Cost Optimization from ACG blog / 2020** - https://acloudguru.com/blog/engineering/5-cost-optimization-tips-from-the-aws-summit-online
   - 📘 **AWS Cost Optimization Tips** - https://medium.com/@Totalcloudio/aws-cost-optimization-checklist-97207d32f7ca
