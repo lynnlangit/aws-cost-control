@@ -49,15 +49,15 @@ These resources are for this LinkedIn Learning Course / 2018 - [link](https://ww
 ## More AWS Cost Control Links
 
 - Whitepapers
-  - **How AWS Pricing Works Whitepaper** - https://d0.awsstatic.com/whitepapers/aws_pricing_overview.pdf
-  - **AWS Cost Optimization Pillar Whitepaper** - https://d1.awsstatic.com/whitepapers/architecture/AWS-Cost-Optimization-Pillar.pdf
-  - **AWS Open Guide - how billing works** - https://github.com/open-guides/og-aws#billing-and-cost-management
+  - 📘 **How AWS Pricing Works Whitepaper** - https://d0.awsstatic.com/whitepapers/aws_pricing_overview.pdf
+  - 📘 **AWS Cost Optimization Pillar Whitepaper** - https://d1.awsstatic.com/whitepapers/architecture/AWS-Cost-Optimization-Pillar.pdf
+  - :octocat: **AWS Open Guide - how billing works** - https://github.com/open-guides/og-aws#billing-and-cost-management
   
 - Tips, Labs and Examples
   - **AWS Cost Visualization lab** - https://wellarchitectedlabs.com/cost/200_labs/200_5_cost_visualization/
-  - **Case Study - ACG + Linux Academy** - https://acloudguru.com/blog/engineering/continuous-cloud-cost-optimization
-  - **AWS Cost Optimization from ACG blog / 2020** - https://acloudguru.com/blog/engineering/5-cost-optimization-tips-from-the-aws-summit-online
-  - **AWS Cost Optimization Tips** - https://medium.com/@Totalcloudio/aws-cost-optimization-checklist-97207d32f7ca
-  - **AWS Real-life Cost Control** - https://medium.com/teads-engineering/real-life-aws-cost-optimization-strategy-at-teads-135268b0860f
-  - **Converting to cloud example (YouTube)** - https://www.youtube.com/watch?v=Vx1AqGsnndI
+  - 📘 **Case Study - ACG + Linux Academy** - https://acloudguru.com/blog/engineering/continuous-cloud-cost-optimization
+  - 📘 **AWS Cost Optimization from ACG blog / 2020** - https://acloudguru.com/blog/engineering/5-cost-optimization-tips-from-the-aws-summit-online
+  - 📘 **AWS Cost Optimization Tips** - https://medium.com/@Totalcloudio/aws-cost-optimization-checklist-97207d32f7ca
+  - 📘 **AWS Real-life Cost Control** - https://medium.com/teads-engineering/real-life-aws-cost-optimization-strategy-at-teads-135268b0860f
+  - 📺 **Converting to cloud example (YouTube)** - https://www.youtube.com/watch?v=Vx1AqGsnndI
 
