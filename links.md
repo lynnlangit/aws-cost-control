@@ -17,10 +17,11 @@ These resources link below are provided as a companion to my 2018 LinkedIn Learn
 - Tools
   - 🛠️ **Tags** -> Cost Allocation Tags - https://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/cost-alloc-tags.html
   - 🛠️ **RGs** -> Resource Groups (Tag Editor) - https://us-west-2.console.aws.amazon.com/resource-groups/tag-editor
-  - 📙  **Categories** -> Cost Categories - https://aws.amazon.com/aws-cost-management/aws-cost-categories/
+  - 📙 **Tagging Best Practices** -> https://d1.awsstatic.com/whitepapers/aws-tagging-best-practices.pdf
+  - 📙 **Categories** -> Cost Categories - https://aws.amazon.com/aws-cost-management/aws-cost-categories/
   - 📘 **Compared** -> Cost Categories vs Tags - https://medium.com/@jaychapel/how-to-use-the-new-aws-cost-categories-for-better-cost-allocation-f7f427965252
-  - 📙  **CF** -> CloudFormation WordPress example template with tags - https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/sample-templates-applications-us-west-2.html
-  - 📙  **Control Tower** - https://aws.amazon.com/blogs/apn/reducing-the-cost-of-managing-multiple-aws-accounts-using-aws-control-tower/
+  - 📙 **CF** -> CloudFormation WordPress example template with tags - https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/sample-templates-applications-us-west-2.html
+  - 📙 **Control Tower** - https://aws.amazon.com/blogs/apn/reducing-the-cost-of-managing-multiple-aws-accounts-using-aws-control-tower/
 
 - Advisor Services
   - 🛠️ **Well-Architected Tool** - https://us-west-2.console.aws.amazon.com/wellarchitected
