@@ -1,0 +1,19 @@
+{
+	"RuleVersion": "CostCategoryExpression.v1",
+	"Rules": [
+		{
+			"Value": "for linkedin courses",
+			"Rule": {
+				"CostCategories": {
+					"Key": "demo",
+					"Values": [
+						"demo-for-aws-cost-control"
+					],
+					"MatchOptions": [
+						"EQUALS"
+					]
+				}
+			}
+		}
+	]
+}
