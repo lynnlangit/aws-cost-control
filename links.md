@@ -36,6 +36,7 @@ These resources link below are provided as a companion to my 2018 LinkedIn Learn
   - 🛠️ **Calculator** - https://calculator.aws/
   - 🛠️ **Service Calculator (older)** - https://calculator.s3.amazonaws.com/index.html
   - 📙 **S3 storage types** - https://aws.amazon.com/s3/storage-classes-infographic/
+  - 🛠️ **S3 Infrequent Access Calculator** - http://www.gulamshakir.com/apps/s3calc/
   - 🛠️ **AWS Lambda cost calculator** - https://dashbird.io/lambda-cost-calculator/
   - :octocat: **DynamoDB pricing explanation and example** - https://github.com/lynnlangit/aws-cost-control/blob/master/links.md
   
