@@ -38,7 +38,8 @@ These resources link below are provided as a companion to my 2018 LinkedIn Learn
   - 📙 **S3 storage types** - https://aws.amazon.com/s3/storage-classes-infographic/
   - 🛠️ **S3 Infrequent Access Calculator** - http://www.gulamshakir.com/apps/s3calc/
   - 🛠️ **AWS Lambda cost calculator** - https://dashbird.io/lambda-cost-calculator/
-  - :octocat: **DynamoDB pricing explanation and example** - https://github.com/lynnlangit/aws-cost-control/blob/master/links.md
+  - 📙 **DynamoDB on-demand pricing explanation and example** - https://aws.amazon.com/dynamodb/pricing/on-demand/
+  - 📙 **DynamoDB provisioned pricing explanation and example** - https://aws.amazon.com/dynamodb/pricing/provisioned/
   
 - EC2 Pricing
   - 🛠️ **EC2 Instance price comparisons** - https://ec2instances.info/
