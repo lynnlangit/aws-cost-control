@@ -22,6 +22,7 @@ These resources link below are provided as a companion to my 2018 LinkedIn Learn
   - 📘 **Compared** -> Cost Categories vs Tags - https://medium.com/@jaychapel/how-to-use-the-new-aws-cost-categories-for-better-cost-allocation-f7f427965252
   - 📙 **CF** -> CloudFormation WordPress example template with tags - https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/sample-templates-applications-us-west-2.html
   - 📙 **Control Tower** - https://aws.amazon.com/blogs/apn/reducing-the-cost-of-managing-multiple-aws-accounts-using-aws-control-tower/
+  - 📙 **Budget Actions** - https://aws.amazon.com/about-aws/whats-new/2020/10/announcing-aws-budgets-actions/
 
 - Advisor Services
   - 🛠️ **Well-Architected Tool** - https://us-west-2.console.aws.amazon.com/wellarchitected
