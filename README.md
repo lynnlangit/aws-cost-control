@@ -1,5 +1,6 @@
 # AWS: Cost Control
-Companion Repository to Linked In Learning Course ["AWS Cost Control"](https://www.linkedin.com/learning/aws-controlling-cost). Example AWS Cost Explorer Dashboard shown below. 
+Companion Repository to Linked In Learning Course ["AWS Cost Control"](https://www.linkedin.com/learning/aws-controlling-cost).   
+Example AWS Cost Explorer Dashboard shown below. 
 
 ![AWS Cost Control](https://github.com/lynnlangit/aws-cost-control/blob/master/images/aws-cost-control.png)
 
