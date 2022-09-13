@@ -55,6 +55,7 @@ These resources link below are provided as a companion to my 2018 LinkedIn Learn
 ## More AWS Cost Control Links
 
 - Whitepapers and Blogs
+  - 📄 **Manage Cloud Costs** quick list - https://news.ycombinator.com/item?id=32749376
   - 📙 **How AWS Pricing Works Whitepaper** - https://d0.awsstatic.com/whitepapers/aws_pricing_overview.pdf
   - 📙 **AWS Cost Optimization Pillar Whitepaper** - https://d1.awsstatic.com/whitepapers/architecture/AWS-Cost-Optimization-Pillar.pdf
   - :octocat: **AWS Open Guide - how billing works** - https://github.com/open-guides/og-aws#billing-and-cost-management
